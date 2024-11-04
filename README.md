@@ -1,4 +1,4 @@
-# MHacks
+# XR Midwest
 
 A Virtual Reality Dentistry Simulator to help students with basic cleaning training
 
